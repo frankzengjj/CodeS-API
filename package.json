@@ -1,0 +1,20 @@
+{
+  "name": "code-sender",
+  "version": "1.0.0",
+  "description": "send code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "html": "^1.0.0",
+    "json2csv": "^4.5.4",
+    "lodash": "^4.17.15",
+    "minimist": "^1.2.0"
+  }
+}
